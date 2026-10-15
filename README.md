@@ -1,2 +1,2 @@
-# inoue-toro
-A Collection of Nao's Toro Inoue/Sony Cat 8-bit GIFs~!!
+# Nuko
+A Collection of Nuko 8-bit GIFs~!!
